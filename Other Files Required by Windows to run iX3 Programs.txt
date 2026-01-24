@@ -1,0 +1,8 @@
+InstantEXE 3.0 requires two files to exist on the local PC. As of 01/24/2026 both of these files are automatically installed on Windows 11 Pro. The files are:
+
+COMDLG32.OCX
+VBRUN60SP6.EXE
+
+If for some reason they cannot be located on a search of your PC and an InstantEXE program is run you will get an error. I have not had to manually install or register these programs in years. Both files should be available, at least for now, from Microsoft.
+
+M. Edgerton
